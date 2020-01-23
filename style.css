@@ -1,8 +1,25 @@
 body{
-    background-color: crimson;
+    background-color: lightgreen;
+}
+
+h2 {
+    font-size: 36px;
 }
 
 p{
-    color: goldenrod;
-    font-size: 150pt;
+    color: crimson;
+    font-size: 36pt;
+}
+
+section{
+    float: left;
+    width: 33.33%;
+}
+
+img {
+    width: 400px;
+}
+
+#caption{
+    font-size: 10pt;
 }
